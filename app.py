@@ -151,7 +151,7 @@ st.sidebar.download_button(
 # CABEÇALHO E MÉTRICAS
 # ----------------------------------------------------------------------
 
-st.title("Sistema de Gerenciamento de Atendimentos e Controle de Patrimônio")
+st.title("Sistema de Gerenciamento")
 st.caption("Gerencie trocas de máquina, remanejamentos e controle de patrimônio de forma simples.")
 
 exibir_metricas()
